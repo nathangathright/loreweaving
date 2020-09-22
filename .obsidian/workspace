@@ -1,0 +1,74 @@
+{
+  "main": {
+    "id": "f2440642a7d4ce6b",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa87296e7a7c65bb",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "00127f493181e2da",
+    "type": "split",
+    "children": [
+      {
+        "id": "7cb27c8432b3df04",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "adc266f63d7d6e2b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "db3afea4732e279f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "97161ea7624580c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "070082421b5e127b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "34c52eb21f1227a8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": []
+}
