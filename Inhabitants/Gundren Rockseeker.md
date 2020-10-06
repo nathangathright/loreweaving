@@ -1,0 +1,2 @@
+# Gundren Rockseeker
+Gundren Rockseeker was one of the three dwarf brothers who rediscovered [[Wave Echo Cave]]. He was the brother of Tharden Rockseeker and the older brother of Nundro Rockseeker. He was also a friend to [[Sildar Hallwinter]], a member of the [[Lords' Alliance]].

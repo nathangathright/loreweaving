@@ -4,12 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "aa87296e7a7c65bb",
+        "id": "26a0b62f31f1ebba",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Locations/Wave Echo Cave.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -37,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": ""
+                "query": "black"
               }
             }
           }
@@ -60,15 +63,27 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {}
+              "state": {
+                "file": "Locations/Wave Echo Cave.md"
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Locations/Wave Echo Cave.md",
+    "Items/Bowgentle’s Book.md",
+    "Locations/Conyberry.md",
+    "Locations/Cragmaw Castle.md",
+    "Locations/Cragmaw Hideout.md",
+    "Locations/Neverwinter Wood.md",
+    "Locations/Phandalin.md",
+    "Locations/Sword Coast North.md",
+    "Locations/Thundertree.md",
+    "Organizations/Emerald Enclave.md"
+  ]
 }
