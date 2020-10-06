@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Locations/Wave Echo Cave.md",
+            "file": "Inhabitants/Gundren Rockseeker.md",
             "mode": "source"
           }
         }
@@ -48,7 +48,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 256.00868225097656
   },
   "right": {
     "id": "97161ea7624580c3",
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Wave Echo Cave.md"
+                "file": "Inhabitants/Gundren Rockseeker.md"
               }
             }
           }
@@ -75,15 +75,15 @@
     "width": 300
   },
   "lastOpenFiles": [
-    "Locations/Wave Echo Cave.md",
-    "Items/Bowgentle’s Book.md",
-    "Locations/Conyberry.md",
-    "Locations/Cragmaw Castle.md",
+    "Inhabitants/Gundren Rockseeker.md",
+    "Inhabitants/Agatha.md",
     "Locations/Cragmaw Hideout.md",
+    "Locations/Cragmaw Castle.md",
     "Locations/Neverwinter Wood.md",
-    "Locations/Phandalin.md",
-    "Locations/Sword Coast North.md",
     "Locations/Thundertree.md",
-    "Organizations/Emerald Enclave.md"
+    "Inhabitants/Venomfang.md",
+    "Inhabitants/Sildar Hallwinter.md",
+    "Organizations/Lords' Alliance.md",
+    "Organizations/Lords’ Alliance.md"
   ]
 }
