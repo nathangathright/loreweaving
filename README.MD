@@ -1,5 +1,5 @@
 # Loreweaving
-An [Obsidian](https://obsidian.md/)-powered wiki chronicling the exploits of a party of adventurers as they play [The Lost Mine of Phandelver](https://www.dndbeyond.com/marketplace/adventures/lost-mine-of-phandelver)
+An [Obsidian](https://obsidian.md/)-powered wiki chronicling the exploits of a party of adventurers as they play [The Lost Mine of Phandelver](https://app.roll20.net/editor/setcampaign/8258782)
 
 ## The Party
 - [Baylen](https://www.dndbeyond.com/characters/34028398/ykEq6X) - Hill Dwarf Cleric
