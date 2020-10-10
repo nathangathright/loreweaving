@@ -1,0 +1,2 @@
+# Linene Graywind
+Linene Graywind is a female human that ran the [[Lionshield Coster]] in [[Phandalin]]. She is sharp-tongued and would refuse to do business with any who might be a threat to the town, notably the Redbrands.

@@ -5,6 +5,7 @@ A frontier settlement of farmers and prospectors, this town was a safe haven for
 - [[Halia Thornton]]
 - [[Sister Garaele]]
 - [[Qelline Alderleaf]]
+- [[Linene Graywind]]
 
 ## Clans in the Town Hall
 - Anasi
