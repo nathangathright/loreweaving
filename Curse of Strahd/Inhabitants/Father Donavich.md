@@ -1,0 +1,4 @@
+# Father Donavich
+Donavich inherited the position of priesthood from his father, and would have passed it to [[Doru]] had fate not intervened. It is not a lofty position, as centuries of hopelessness and centuries of prayers going unanswered have thinned the flock and turned the [[Church of the Morninglord]] into little more than another building in the village. 
+
+Donavich fills his time with priestly duties such as tending to the graveyard, reciting prayers over the ancient altar, keeping the candles lit, and keeping the walls and holy symbols intact in an effort to stave off whatever forces might decide to attack or be sent by Strahd in a fit of boredom. 

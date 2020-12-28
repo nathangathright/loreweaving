@@ -1,0 +1,2 @@
+# Nezznar, the Black Spider
+Nezznar, also known as the [[Black Spider]], was a drow who was in search of the Forge of Spells in [[Wave Echo Cave]]. He promised a share to [[Iarno Albrek]] of the [[Lords' Alliance]] in exchange for his loyalty and aid. Nezznar was the true leader of the [[Redbrands]], controlling them (as well as the Cragmaw tribe of goblinoids) in the hopes of finding [[Wave Echo Cave]] and unlocking its secrets.
