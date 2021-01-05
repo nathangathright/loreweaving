@@ -14,3 +14,4 @@ An [Obsidian](https://obsidian.md/)-powered wiki chronicling the exploits of a p
 - [[Mirann Phrahdrandon]] - Dragonborn Paladin
 - [[Luku Loreweaver]] - High Elf Sorcerer
 - [[Thotiano]] - Human Bard
+- [[Emmanuel Dragos]] - Human Blood Hunter
