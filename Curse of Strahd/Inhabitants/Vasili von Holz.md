@@ -1,2 +1,2 @@
 # Vasili von Holz
-Vasili is a young nobleman from [[Vallaki]]
+Vasili is a young nobleman from [[The Town of Vallaki]]

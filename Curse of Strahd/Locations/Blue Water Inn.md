@@ -1,2 +1,2 @@
 # Blue Water Inn
-Local inn in the town of [[Vallaki]] run by [[Urwin Martikov]]
+Local inn in [[The Town of Vallaki]] run by [[Urwin Martikov]]

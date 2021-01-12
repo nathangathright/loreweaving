@@ -1,0 +1,2 @@
+# Village of Krezk
+Krezk is a walled village in the Northwest of Barovia. Its inhabitants fear Strahd von Zarovich so completely that they minimize contact with the outside world as much as possible. The only people the regularly allow to enter are those bringing shipments of wine from [[The Wizard of Wines]].
